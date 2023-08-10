@@ -34,11 +34,11 @@ int main()
    int R;
    cin >> R; 
 
-   cout << "Frecuencia del led Rojo" << "\n" << "Por favor ingrese un valor:" << "\n";
+   cout << "Frecuencia del led Verde" << "\n" << "Por favor ingrese un valor:" << "\n";
    int G;
    cin >> G; 
 
-   cout << "Frecuencia del led Rojo" << "\n" << "Por favor ingrese un valor:" << "\n";
+   cout << "Frecuencia del led Azul" << "\n" << "Por favor ingrese un valor:" << "\n";
    int B;
    cin >> B; 
 
